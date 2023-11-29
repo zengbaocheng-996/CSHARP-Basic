@@ -133,14 +133,15 @@ namespace CS_Basics
             // Classes Accessors
             /*
             MyClass myClass = new MyClass();
-			*/
+            */
             
             // Scope
             /*
             int i = 10;
             TestFunction();
-            Console.ReadKey();
-        	*/
+            */
+            
+            Console.ReadKey();        	
         }
         
         // Scope
