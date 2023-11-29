@@ -1,5 +1,3 @@
-Store a function in a variable
-
 ```c#
 using System;
 using System.Collections;
