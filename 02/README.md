@@ -1,3 +1,5 @@
+Publishers
+
 ```c#
 using System;
 using System.Collections;
@@ -56,6 +58,8 @@ public class TestingEvents : MonoBehaviour
     }
 }
 ```
+
+Subscribers
 
 ```c#
 using System;
