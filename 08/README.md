@@ -1,4 +1,4 @@
-| VALUE TYPES                                    | REFERENCE TYPE                           |
+| VALUE TYPES                                    | REFERENCE TYPES                          |
 | ---------------------------------------------- | ---------------------------------------- |
 | int<br />float<br />enum<br />bool<br />struct | class<br />object<br />array<br />string |
 
